@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/35dd7ef7-e6c7-45d1-9cc2-055491fc00ba)# DESIGN-AND-IMPLEMENTATION-OF-AN-RISC-V-32-BIT-CORE-5-PIPELINE-WITH-C-AND-M-EXTENDSION-RV32IMC-
-The 32-bit RISC-V architecture, particularly the RV32IMC variant, represents a milestone in open-source processor design, offering scalability, modularity, and efficiency
+# The 32-bit RISC-V architecture, particularly the RV32IMC variant, represents a milestone in open-source processor design, offering scalability, modularity, and efficiency
 
 # 1.	Introduction
 In modern computing, processor architecture plays a critical role in shaping the performance, energy efficiency, and adaptability of systems across diverse applications. The RISC-V Instruction Set Architecture (ISA) has emerged as a revolutionary standard in this field, offering an open-source, modular, and extensible platform for processor design. Unlike proprietary ISAs, RISC-V enables developers and researchers to customize architectures to meet specific requirements without being constrained by licensing costs or vendor lock-ins. This flexibility and scalability make RISC-V a compelling choice for building processors tailored to high-performance, low-power, and cost-sensitive applications.
